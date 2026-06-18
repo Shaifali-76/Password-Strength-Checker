@@ -32,7 +32,7 @@ The analyzer evaluates:
 
 Users receive immediate feedback to help create more secure passwords.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <li> HTML5
 <li> CSS3
