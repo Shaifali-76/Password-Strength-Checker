@@ -33,7 +33,7 @@ The analyzer evaluates:
 Users receive immediate feedback to help create more secure passwords.
 
 ## Tech Stack
-
+<li> C Language</li>
 <li> HTML5
 <li> CSS3
 <li> JavaScript
@@ -44,5 +44,5 @@ The goal of this project is to promote cybersecurity awareness by helping users 
 
 ## Demo Link
 
-https://github.com/Shaifali-76/Password_Analyzer
+https://shaifali-76.github.io/Password_Analyzer/
 
