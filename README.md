@@ -33,10 +33,10 @@ The analyzer evaluates:
 Users receive immediate feedback to help create more secure passwords.
 
 ## Tech Stack
-<li> C Language</li>
-<li> HTML5
-<li> CSS3
-<li> JavaScript
+<li> HTML5 – Structure of the web application
+<li> CSS3 – Styling and responsive UI design
+<li> JavaScript – Real-time password strength checking logic
+<li> C Language – Used for implementing and practicing the core password strength algorithm
   
 ## Objective
 
