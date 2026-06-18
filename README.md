@@ -4,39 +4,39 @@ A web-based Password Analyzer that helps users evaluate the strength of their pa
 
 ## Features
 
-<li> Real-time password strength analysis <\li>
-<li> Password security evaluation based on:<\li>
+<li> Real-time password strength analysis
+<li> Password security evaluation based on:
 
-  <li> Length<\li>
-  <li> Uppercase letters<\li>
-  <li> Lowercase letters<\li>
-  <li> Numbers<\li>
-  <li> Special characters<\li>
-<li> Visual strength indicator<\li>
-<li> Instant feedback for improving password security<\li>
-<li> Responsive and user-friendly interface<\li>
+  <li> Length
+  <li> Uppercase letters
+  <li> Lowercase letters
+  <li> Numbers
+  <li> Special characters
+<li> Visual strength indicator
+<li> Instant feedback for improving password security
+<li> Responsive and user-friendly interface
 
 ## How It Works
 
 The Password Analyzer checks the entered password against multiple security criteria and categorizes it as:
 
-<li> Weak<\li>
-<li> Moderate<\li>
-<li> Strong<\li>
+<li> Weak
+<li> Moderate
+<li> Strong
 
 The analyzer evaluates:
 
-<li> Password length<\li>
-<li> Character diversity<\li>
-<li> Complexity and randomness<\li>
+<li> Password length
+<li> Character diversity
+<li> Complexity and randomness
 
 Users receive immediate feedback to help create more secure passwords.
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-<li> HTML5<\li>
-<li> CSS3<\li>
-<li> JavaScript<\li>
+<li> HTML5
+<li> CSS3
+<li> JavaScript
   
 ## Objective
 
